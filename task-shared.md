@@ -1,1 +1,1 @@
-Task list by Trang\n- Task T1\n- Task T2
+Task list by Trang
