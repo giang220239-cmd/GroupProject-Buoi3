@@ -1,1 +1,1 @@
-Nội dung sai từ A
+Nội dung từ remote + Nội dung đúng từ A
